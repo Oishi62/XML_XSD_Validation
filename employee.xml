@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="E1">
+        <personal>
+            <first_name>Shreyans</first_name>
+            <last_name>Jain</last_name>
+            <dob>2003-01-06</dob>
+            <gender>Male</gender>
+        </personal>
+        <employment position="Data Analyst">
+            <salary>70000</salary>
+        </employment>
+        <contact>
+            <email>shreyans.jain89@gmail.com</email>
+            <phone>9874563214</phone>
+        </contact>
+    </employee>
+    <employee id="E2">
+        <personal>
+            <first_name>Oishi</first_name>
+            <last_name>Halder</last_name>
+            <dob>2001-12-15</dob>
+            <gender>Female</gender>
+        </personal>
+        <employment position="Software Developer">
+            <salary>90000</salary>
+        </employment>
+        <contact>
+            <email>oishi.halder59@gmail.com</email>
+            <phone>7894561235</phone>
+        </contact>
+    </employee>
+    <employee id="E3">
+        <personal>
+            <first_name>Nikhil</first_name>
+            <last_name>Sinha</last_name>
+            <dob>2000-02-29</dob>
+            <gender>Male</gender>
+        </personal>
+        <employment position="Ethical Hacker">
+            <salary>80000</salary>
+        </employment>
+        <contact>
+            <email>nikhil.sinha36@gmail.com</email>
+            <phone>5647893214</phone>
+        </contact>
+    </employee>
+</employees>
